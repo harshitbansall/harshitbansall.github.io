@@ -50,6 +50,7 @@ const StyledDescription = styled.div`
   background-color: ${colors.lightNavy};
   color: ${colors.lightSlate};
   font-size: ${fontSizes.lg};
+  text-align: left;
   border-radius: ${theme.borderRadius};
   ${media.thone`
     background-color: transparent;
@@ -216,7 +217,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>Projects</Heading>
 
       <div>
         {featuredProjects &&

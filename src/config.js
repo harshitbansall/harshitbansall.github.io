@@ -22,10 +22,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/harshitbansall/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/chandrikadeb7',
-    // },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/harshitbansall',
@@ -58,7 +54,7 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
+    green: '#ff666',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
