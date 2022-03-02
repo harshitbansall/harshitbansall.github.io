@@ -1,14 +1,7 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me.jpeg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
   - Python
 ---
 
