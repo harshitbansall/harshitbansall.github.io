@@ -34,8 +34,7 @@ const StyledArchiveLink = styled(Link)`
 `;
 const StyledGrid = styled.div`
   margin-top: 50px;
-  margin-left: 10%;
-
+ 
   .projects {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -161,7 +160,7 @@ const Projects = ({ data }) => {
                 <CSSTransition
                   key={i}
                   classNames="fadeup"
-                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 300 : 300}
+                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 3000 : 300}
                   exit={false}>
                   <StyledProject
                     key={i}

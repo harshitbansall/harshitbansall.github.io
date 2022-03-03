@@ -1,7 +1,6 @@
 ---
-date: '2020-02-01'
+date: '2020'
 title: 'EDITH'
-cover: 'edith.jpg'
 github: 'https://github.com/harshitbansall/EDITH'
 external: ''
 tech:

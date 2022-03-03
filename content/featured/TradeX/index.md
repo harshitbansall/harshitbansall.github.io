@@ -1,5 +1,5 @@
 ---
-date: '2021'
+date: '2019'
 title: 'Trade X'
 cover: 'Screenshot.png'
 github: 'https://github.com/harshitbansall/TradeX'

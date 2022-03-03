@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Harshit Bansal | Software Developer |',
   siteDescription:
-    'Harshit Bansal is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Harshit Bansal',
   siteKeywords:
-    'Harshit Bansal, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Harshit Bansal',
   siteUrl: 'https://harshitbansall.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
