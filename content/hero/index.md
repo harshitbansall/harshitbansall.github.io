@@ -7,7 +7,7 @@ buttonText: 'Contact Me'
 
 I'm budding Developer specialized in Web Development.
 
-Currently in my First Year of B.Tech, <br> Interning as a Backend Web Developer at [Shuniyavigyan](https://www.shuniyavigyan.com/).
+Currently in my Second Year of B.Tech.
 
 Outside work, I am a big Foodie ! <br>
 Food and Coding are my Stressbusters.

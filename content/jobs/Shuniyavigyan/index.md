@@ -2,7 +2,7 @@
 date: '2022-01-22'
 title: 'Backend Web Developer'
 company: 'Shuniyavigyan'
-range: '22 January 2022 - Present'
+range: 'January 2022 - May 2022'
 url: 'https://www.shuniyavigyan.com/'
 ---
 

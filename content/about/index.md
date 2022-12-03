@@ -7,8 +7,9 @@ skills:
   - .NET Framework C#
   - MySQL & PostgreSQL
   - DJango
+  - Flutter
   - Amazon Web Services
-  - JMeter
+  - Microsoft Azure
   - Postman
   - Bootstrap
   - Node.js
